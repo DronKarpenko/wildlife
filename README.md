@@ -1,1 +1,1 @@
-# https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/wildlife
+Deploy: https://dronkarpenko.github.io/wildlife/
